@@ -1,0 +1,7 @@
+APScheduler
+Flask
+Flask_APScheduler
+pandas
+Pillow
+Requests
+SQLAlchemy

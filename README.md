@@ -35,7 +35,7 @@
 ## 安装与使用
 1. 克隆本项目到本地, Windows可以直接使用`TrainAssistant.exe`。
    ```bash
-   git clone [https://github.com/2375137/12306.git](https://github.com/2375137/12306.git)
+   git clone https://github.com/2375137/12306.git
    ```
 2. 安装依赖。
    ```bash
